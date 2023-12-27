@@ -2,6 +2,3 @@ rodino
 hekele
 bela
 ernesto
-belo
-ana
-paulo bernardo
