@@ -1,2 +1,1 @@
-# BEM VINDO AO CURSO DE GITHUB
-teste
+#Iniciando com o Github
